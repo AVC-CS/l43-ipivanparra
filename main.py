@@ -3,7 +3,7 @@ def main():
     ## Lab 4-3
     i = 0; total = 0
     while(i < 5):
-        num = int(input(0))
+        num = int(input("Enter a value: "))
         total += num
         i += 1
     print(total) 
