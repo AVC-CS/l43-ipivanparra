@@ -4,9 +4,9 @@ def main():
     i = 0; total = 0
     while(i < 5):
         num = int(input(0))
-        total 
-
-   
+        total += num
+        i += 1
+    print(total) 
    
     return total
 
